@@ -41,12 +41,12 @@ main {
     width: 55px;
 }
 
-.card h2 {
+.card h1 {
     font-size: 2rem;
     font-weight: 700;
     text-transform: uppercase;
     color: var(--Very-light-gray);
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Big Shoulders Display', cursive;
 }
 
 .card p {
